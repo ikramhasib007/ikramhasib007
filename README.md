@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ikram Ud Daula
+- 👋 Hi, I’m Ikram Ud Daula. Senior Software Engineer with around 7 years of experience
 - 👀 I’m interested in JavaScript, React.js, Node.js, GraphQL
 - 🌱 I’m currently learning how to develop with TypeScript
 - 💞️ I’m looking to collaborate on GraphQL yoga or Apollo projects or any React.js projects
